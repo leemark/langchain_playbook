@@ -11,4 +11,5 @@ This repository contains a collection of basic Python examples utilizing Langcha
 ## Examples
 - `hello.py`: Demonstrates a basic "Hello, World!" example.
 - add more here...
+- [`src/basic_streamlit_chat_ui.py](src/basic_streamlit_chat_ui.py) : Demonstrates a basic chat UI using Streamlit.
 - `langchain_streaming_streamlit.py`: Demonstrates a streaming example using Langchain and Streamlit.
