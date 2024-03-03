@@ -1,3 +1,5 @@
+# NOTE: since this script uses streamlit, it must be run with "streamlit run <filename>"
+
 # Import required modules
 from dotenv import load_dotenv  # To load environment variables
 from langchain_core.messages import HumanMessage, AIMessage  # Import message classes
